@@ -42,7 +42,7 @@ Check out the system in action [here](https://youtu.be/069H8rDi6LI).
 - Arduino IDE with ESP32 board package
 
 ### Installation
-1. Clone this repository: `git clone `
+1. Clone this repository: `git clone https://github.com/alichaw/esp32-karaoke-order.git`
 2. Open the project in Arduino IDE.
 3. Flash the code to your ESP32 board.
 4. Access the web interface via the ESP32's IP address on the local network.
