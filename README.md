@@ -1,5 +1,6 @@
 # Smart Augmented Vintage Jukebox Control System with ESP32
-Chinese Version sildes is [here](https://docs.google.com/presentation/d/1JKD7A5C1pfJTkAhMFqv6Ob-pRAtxeukd4btviUZhInc/edit?usp=sharing)
+> Chinese Version sildes is [here](https://docs.google.com/presentation/d/1JKD7A5C1pfJTkAhMFqv6Ob-pRAtxeukd4btviUZhInc/edit?usp=sharing)
+
 This project demonstrates the development of a smart control system for a vintage jukebox using an ESP32 microcontroller. The system allows users to remotely control and select songs through WiFi and QR code scanning, integrating modern technologies with a traditional jukebox interface.
 
 ## Project Description
