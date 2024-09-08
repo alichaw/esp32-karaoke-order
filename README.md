@@ -27,6 +27,7 @@ Key features include remote control via WiFi, song selection using QR codes, and
 - **QRCode API**: Generates QR codes for song selection and user identification.
 
 ## Demo Video
+<img width="793" alt="截圖 2024-09-09 上午3 33 40" src="https://github.com/user-attachments/assets/a1dd6d35-0484-4d1a-b9b4-950e068f41ba">
 Check out the system in action [here](https://youtu.be/069H8rDi6LI).
 
 ## Future Enhancements
